@@ -1,4 +1,4 @@
-LMS
+Library Management System
 ===
 
 LibraryManagementSystem
